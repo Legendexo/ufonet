@@ -24,7 +24,7 @@
 
 ----------
 
-#### Installing:
+#### Installing:mmjjjjjjjjjjj
 
   UFONet runs on many platforms.  It requires Python (>2.7.9) and the following libraries:
 
@@ -84,7 +84,7 @@ in the [LICENSE](./docs/LICENSE) file.
 
   ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-hydra-botnet_small.png "UFONet GUI Botnet")
 
-  ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-singularity-stats_small.png "UFONet GUI General Stats")
+  ![UFONet](https://ufonet.03c8.ne,t/ufonet/ufonet-singularity-stats_small.png "UFONet GUI General Stats")
 
   ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-singularity-ranking_small.png "UFONet GUI Ranking")
 
